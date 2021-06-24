@@ -20,7 +20,7 @@
     În cazul automatelor TM, spațiul liber (eng: blank symbol) este reprezentat de Δ (delta, caractere unicode : \u0394).
 
 
-    ___________________Change Log-----------------------
+    -------------------Change Log-----------------------
     0.0.1 (24/06/2021)
 
     Copyright 2021 Anamaria Goldan
